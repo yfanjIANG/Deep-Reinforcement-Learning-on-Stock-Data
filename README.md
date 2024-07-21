@@ -8,3 +8,7 @@ This project leverages deep reinforcement learning techniques to analyze and pre
 - **Train-Test Split**: Split the data into training and testing sets for model evaluation.
 - **Data Visualization**: Visualize stock data using interactive candlestick charts.
 - **Deep Reinforcement Learning**: Implement and train reinforcement learning models to make stock trading decisions.
+
+## View the Full Notebook
+
+For a detailed walkthrough and to view the full notebook, visit the [nbviewer link](https://nbviewer.jupyter.org/).
